@@ -1,0 +1,26 @@
+WORK HOURS OF EMPLOYEES
+-=-=-=-=-=-=-=-=-=-=-=-=
+1st, 2nd and 3rd line of code: 
+#include <iostream>
+using namespace std;
+int main() {
+
+within a while loop, we will ask user input from the employees, everyday they would have to log in their hours of work
+â†“ 
+and during the weekend, they will then type the word "end" to break the loop
+â†“ 
+after that, it will be contained within a list.
+â†“ 
+we will then create a formula that would add up all the integers in the list using + symbol.
+â†“ 
+store the result within a variable, I will name the integer variable "workHours"
+â†“ 
+create an if-else statement within a variable, we will name it "remarks", if workHours >= 40, then it will be counted as their overtime because they worked more than 40hrs in that week. Else, it will be normal work hours. Remarks will be either "normal" or "overtime".
+â†“ 
+print the results
+â†“ 
+cout << "Employee work hours: " << workHours;
+cout << "Remarks: << remarks;
+â†“ 
+return 0;
+}

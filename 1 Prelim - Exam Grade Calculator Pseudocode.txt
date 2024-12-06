@@ -1,0 +1,26 @@
+1st, 2nd and 3rd line of code: 
+#include <iostream>
+using namespace std;
+int main() {
+for this example, we are going to ask for 3 subjects from the user.
+we will be naming these variables as g1, g2, and g3
+ â†“
+ask for user input on:
+Grades on 1st subject -
+Grades on 2nd subject -
+Grades on 3rd subject - 
+ â†“
+we will be naming these integer variables as g1, g2, and g3
+ â†“
+Then create a variable that will contain the formula and will compute the answer for you and make it a float.
+ â†“
+float grades = g1 + g2 + g3 / 3(the number of subjs)
+ â†“
+create an if-else statement within a variable, we will name it "Remarks". if the grades are equal or above 60, then print "Pass". Else, it would be "Failed"
+â†“
+print the grades using  cout << "Your grade is: " << grades;
+â†“
+print the remarks using cout << "Remarks: " << remarks;
+â†“
+return 0;
+}

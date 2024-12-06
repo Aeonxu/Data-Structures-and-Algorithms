@@ -1,0 +1,12 @@
+Start with the base of the code "  #include <iostream>
+using namespace std;"
+	 â†“
+give attributes to the variables that needs to be added, it should be "int" for integer
+	 â†“
+get user input for the integers that needs to be added, in this case, the prices of the items.
+	 â†“
+create a variable named "TheTotalSum" which will then add the given numbers and store it. (The name is optional/changeable hehe)
+	 â†“
+print the sum/output
+	 â†“
+" return 0; " to finish it up

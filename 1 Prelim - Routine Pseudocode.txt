@@ -1,0 +1,27 @@
+// Task: Morning Routine (School day Edition) //
+
+# Wake up
+# Drink water
+# Check phone
+# Check if breakfast is ready
+IF breakfast is ready THEN
+    # Eat breakfast
+    # Take a bath
+    # Dry hair
+ELSE IF someone is cooking THEN
+    # Take a bath
+    # Dry hair
+    # Eat breakfast
+ELSE
+    # Cook breakfast
+    # Eat breakfast
+    # Take a bath
+    # Dry hair
+# Do skincare
+# Brush teeth
+# Apply simple makeup
+# Style hair
+# Check bag for essentials
+# Check if ID is worn
+# Put on shoes
+# Leave house at least 30 minutes to 1 hour before class
